@@ -1,0 +1,19 @@
+
+SQL*Plus: Release 12.1.0.1.0 Production on Mon Nov 18 17:50:15 2013
+
+Copyright (c) 1982, 2013, Oracle.  All rights reserved.
+
+Last Successful login time: Mon Nov 18 2013 17:49:47 -08:00
+
+Connected to:
+Oracle Database 12c Enterprise Edition Release 12.1.0.1.0 - 64bit Production
+With the Partitioning, OLAP, Advanced Analytics and Real Application Testing options
+
+
+Function created.
+
+The firepower of Yamato is 52488
+
+PL/SQL procedure successfully completed.
+
+SQL> 
